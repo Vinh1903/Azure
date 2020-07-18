@@ -1,2 +1,2 @@
-group=azure-load-balancer-introduction
+group=azureloadbalancer
 az group delete -g $group
