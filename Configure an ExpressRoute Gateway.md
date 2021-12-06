@@ -1,4 +1,3 @@
----
 # Configure an ExpressRoute Gateway
 
 ## Deploy ExpressRoute gateways
