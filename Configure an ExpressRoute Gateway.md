@@ -50,7 +50,7 @@ In this exercise, you will:
 
 8. On the Create virtual network page, select **Review + Create**.
 
-   ![Azure portal - add gateway subnet](../media/add-gateway-subnet.png)
+   ![Azure portal - add gateway subnet](https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/media/add-gateway-subnet.png)
 
 9. Confirm that the VNet passes the validation and then select **Create**.
 
